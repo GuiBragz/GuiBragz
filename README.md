@@ -1,20 +1,36 @@
-### olá! Eu sou o Guilherme Braga
+### Olá! Eu sou o Guilherme Bragança 👋
 
-- 🔭 atualmente não estou trabalhando com programação😢
-- 🌱 estou atualmente estudando JavaScript
-- 👯 estou procurando por uma emprego como programador
-- 📫 email para contato: guilhermebragaferreira40@gmail.com
-- 😄 Pronomes: ele/dele
-- 😜 gosto de ler, amo jogar e adoro ouvir uns rock classicos
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Apaixonado por tecnologia, programação e design  
+🚀 Em busca de oportunidades para crescer como desenvolvedor
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="GuiBragz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GuiBragz-Figma" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="GuiBragz-Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="GuiBragz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GuiBragz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GuiBragz-Sql" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="GuiBragz-C" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  </div>
+---
 
+### 💡 Tecnologias que uso no dia a dia:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+---
+
+### 🚧 Projetos em andamento:
+- 💰 **Control Cash** — sistema de controle financeiro pessoal
+- 📚 **Sistema de Biblioteca** — gerenciamento de livros e empréstimos
+- 🛍️ **JDImports** — loja de camisas de futebol ⚽
+
+---
+
+### 📊 Estatísticas do GitHub:
+
+![GuiBragz GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiBragz&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Onde me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
