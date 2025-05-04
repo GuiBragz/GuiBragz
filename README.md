@@ -1,4 +1,4 @@
-### Olá! Eu sou o Guilherme Bragança 👋
+### Olá! Eu sou o Guilherme Braga 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonado por tecnologia, programação e design  
