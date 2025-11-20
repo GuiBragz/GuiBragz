@@ -20,7 +20,6 @@
 ### 🚧 Projetos em andamento:
 - 💰 **Control Cash** — sistema de controle financeiro pessoal
 - 📚 **Sistema de Biblioteca** — gerenciamento de livros e empréstimos
-- 🛍️ **JDImports** — loja de camisas de futebol ⚽
 
 ---
 
@@ -33,4 +32,4 @@
 ### 📫 Onde me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contatoguilhermebraga16@gmail.com)
