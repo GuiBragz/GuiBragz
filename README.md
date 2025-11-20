@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Guilherme Braga 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Apaixonado por tecnologia, programação e design  
-🚀 Em busca de oportunidades para crescer como desenvolvedor
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+💻 Apaixonado por tecnologia, programação e design <br>
+🚀 Em busca de oportunidades para crescer como desenvolvedor <br>
 
 ---
 
