@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Guilherme Braga 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Apaixonado por tecnologia, programação e design  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Apaixonado por tecnologia, programação e design  
 🚀 Em busca de oportunidades para crescer como desenvolvedor
 
 ---
@@ -19,7 +19,7 @@
 
 ### 🚧 Projetos em andamento:
 - 💰 **Control Cash** — sistema de controle financeiro pessoal
-- 📚 **Sistema de Biblioteca** — gerenciamento de livros e empréstimos
+- 📚 **Zentry** — sistema de otimização de estudos com a tecnica pomodoro
 
 ---
 
@@ -31,5 +31,5 @@
 
 ### 📫 Onde me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/guilherme-braga-152a65374](https://www.linkedin.com/in/guilherme-braga-152a65374/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-braga-152a65374/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contatoguilhermebraga16@gmail.com)
