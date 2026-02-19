@@ -31,5 +31,5 @@
 
 ### 📫 Onde me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.din.com/in/guilherme-b2a65374/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-braga-152a65374/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contatoguilhermebraga16@gmail.com) **contatoguilhermebraga16@gmail.com**
