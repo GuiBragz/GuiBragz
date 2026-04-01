@@ -18,8 +18,9 @@
 ---
 
 ### 🚧 Projetos em andamento:
-- 💰 **Control Cash** — sistema de controle financeiro pessoal
+- 💰 **Sthe Nutricare** — sistema de gestão e acompanhamento de pacientes da profissional Stheffane Santos
 - 📚 **Zentry** — sistema de otimização de estudos com a tecnica pomodoro
+- 🖼️ **HexColor** - Ferramenta inteligente de seleção e gerenciamento de cores para desenvolvedores e designers.
 
 ---
 
